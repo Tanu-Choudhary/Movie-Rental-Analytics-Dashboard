@@ -88,5 +88,4 @@ It includes the following key tables:
 ![Dashboard](https://github.com/Tanu-Choudhary/Movie-Rental-Analytics-Dashboard/blob/main/assets/Screenshot%202025-06-26%20212414.png)
 ![Dashboard](https://github.com/Tanu-Choudhary/Movie-Rental-Analytics-Dashboard/blob/main/assets/Screenshot%202025-06-26%20212432.png)
 
-## 🗃 Folder Structure
 
